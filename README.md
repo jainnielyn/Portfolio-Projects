@@ -19,5 +19,7 @@ Used: CONVERT, JOIN, SUBSTRING, PARSENAME, CASE, CTE, PARTITION BY
 
 ## Project 3, Tidy Tuesday: Freedom (2/22/22)
 Explored freedom data using SQL and Tableau 
+
 Used: CTE, Subqueries, CASE
+
 Tableau visualization: https://public.tableau.com/app/profile/jainnie/viz/TidyTuesday-Freedom022222/Dashboard1
